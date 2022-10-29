@@ -1,0 +1,7 @@
+.mypy_cache
+.vscode
+__pycache__
+results
+build
+dist
+Makefile
